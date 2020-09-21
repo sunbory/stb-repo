@@ -1,5 +1,0 @@
-[submodule "amlogic/openlinux"]
-    path = amlogic/openlinux
-    url = https://github.com/sunbory/openlinux.amlogic.com.git
-    branch = master
-    ignore = all

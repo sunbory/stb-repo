@@ -1,0 +1,95 @@
+[submodule "amlogic/openlinux"]
+    path = amlogic/openlinux
+    url = https://github.com/sunbory/openlinux.amlogic.com.git
+    branch = master
+    ignore = all  
+[submodule "amlogic/board/B860"]
+    path = amlogic/board/B860
+    url = https://github.com/ndunks/custom-rom-stb-zte-B860-indihome.git
+    branch = master
+    ignore = all  
+[submodule "amlogic/linux-usb-burn"]
+    path = amlogic/linux-usb-burn
+    url = https://github.com/Stane1983/aml-linux-usb-burn.git
+    branch = master
+    ignore = all      
+[submodule "mstar/bin-tool"]
+    path = mstar/bin-tool
+    url = https://github.com/dipcore/mstar-bin-tool.git
+    branch = master
+    ignore = all
+[submodule "mstar/H638"]
+    path = mstar/H638
+    url = https://github.com/schreibikus/wenshuai.xi.git
+    branch = master
+    ignore = all
+[submodule "mstar/Mstar_code"]
+    path = mstar/Mstar_code
+    url = https://github.com/GracieZhou/test.git
+    branch = master
+    ignore = all    
+[submodule "mstar/kogan-tv-gpl"]
+    path = mstar/kogan-tv-gpl
+    url = https://github.com/Benjamin-Dobell/kogan-tv-gpl.git
+    branch = master
+    ignore = all        
+[submodule "Linux/AnLinux/App"]
+    path = Linux/AnLinux/App
+    url = https://github.com/EXALAB/AnLinux-App.git
+    branch = master
+    ignore = all    
+[submodule "Linux/Anlinux/Resources"]
+    path = Linux/Anlinux/Resources
+    https://github.com/EXALAB/Anlinux-Resources.git
+    branch = master
+    ignore = all   
+[submodule "Linux/linuxdeploy"]
+    path = Linux/linuxdeploy
+    url = https://github.com/meefik/linuxdeploy.git
+    branch = master
+    ignore = all
+[submodule "Linux/linuxdeploy/cli"]
+    path = Linux/linuxdeploy/cli
+    url = https://github.com/meefik/linuxdeploy-cli.git
+    branch = master
+    ignore = all    
+[submodule "App/AndroidTVLauncher"]
+    path = App/AndroidTVLauncher
+    url = https://github.com/JackyAndroid/AndroidTVLauncher.git
+    branch = master
+    ignore = all    
+[submodule "App/dropbear"]
+    path = App/dropbear
+    url = https://github.com/ubiquiti/dropbear-android
+    branch = master
+    ignore = all   
+[submodule "App/TVRemoteIME"]
+    path = App/TVRemoteIME
+    url = https://github.com/ylqf/TVRemoteIME.git
+    branch = master
+    ignore = all       
+[submodule "App/MiniThunder"]
+    path = App/MiniThunder
+    url = https://github.com/redstorm82/MiniThunder.git
+    branch = master
+    ignore = all  
+[submodule "App/BtPlayer"]
+    path = App/BtPlayer
+    url = https://github.com/YuntaoWei/BtPlayer.git
+    branch = master
+    ignore = all  
+[submodule "App/yunbotouping"]
+    path = App/yunbotouping
+    url = https://github.com/yunbotouping/-.git
+    branch = master
+    ignore = all      
+    
+    
+
+
+    
+    
+    
+    
+    
+    
