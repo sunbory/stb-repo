@@ -1,0 +1,6 @@
+[submodule "amlogic/openlinux"]
+	path = amlogic/openlinux
+	url = https://github.com/sunbory/openlinux.amlogic.com.git
+[submodule "amlogic/board/B860"]
+	path = amlogic/board/B860
+	url = https://github.com/ndunks/custom-rom-stb-zte-B860-indihome.git
