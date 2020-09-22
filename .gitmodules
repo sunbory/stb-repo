@@ -4,3 +4,48 @@
 [submodule "amlogic/board/B860"]
 	path = amlogic/board/B860
 	url = https://github.com/ndunks/custom-rom-stb-zte-B860-indihome.git
+[submodule "amlogic/linux-usb-burn"]
+	path = amlogic/linux-usb-burn
+	url = https://github.com/Stane1983/aml-linux-usb-burn.git
+[submodule "mstar/bin-tool"]
+	path = mstar/bin-tool
+	url = https://github.com/dipcore/mstar-bin-tool.git
+[submodule "mstar/board/H638"]
+	path = mstar/board/H638
+	url = https://github.com/schreibikus/wenshuai.xi.git
+[submodule "mstar/Mstar_code"]
+	path = mstar/Mstar_code
+	url = https://github.com/GracieZhou/test.git
+[submodule "mstar/kogan-tv-gpl"]
+	path = mstar/kogan-tv-gpl
+	url = https://github.com/Benjamin-Dobell/kogan-tv-gpl.git
+[submodule "Linux/AnLinux/App"]
+	path = Linux/AnLinux/App
+	url = https://github.com/EXALAB/AnLinux-App.git
+[submodule "Linux/Anlinux/Resources"]
+	path = Linux/Anlinux/Resources
+	url = https://github.com/EXALAB/Anlinux-Resources.git
+[submodule "Linux/linuxdeploy/master"]
+	path = Linux/linuxdeploy/master
+	url = https://github.com/meefik/linuxdeploy.git
+[submodule "Linux/linuxdeploy/cli"]
+	path = Linux/linuxdeploy/cli
+	url = https://github.com/meefik/linuxdeploy-cli.git
+[submodule "App/AndroidTVLauncher"]
+	path = App/AndroidTVLauncher
+	url = https://github.com/JackyAndroid/AndroidTVLauncher.git
+[submodule "App/dropbear"]
+	path = App/dropbear
+	url = https://github.com/ubiquiti/dropbear-android
+[submodule "App/TVRemoteIME"]
+	path = App/TVRemoteIME
+	url = https://github.com/ylqf/TVRemoteIME.git
+[submodule "App/MiniThunder"]
+	path = App/MiniThunder
+	url = https://github.com/redstorm82/MiniThunder.git
+[submodule "App/BtPlayer"]
+	path = App/BtPlayer
+	url = https://github.com/YuntaoWei/BtPlayer.git
+[submodule "App/yunbotouping"]
+	path = App/yunbotouping
+	url = https://github.com/yunbotouping/-.git
