@@ -22,8 +22,8 @@
 [submodule "Linux/AnLinux/App"]
 	path = Linux/AnLinux/App
 	url = https://github.com/EXALAB/AnLinux-App.git
-[submodule "Linux/Anlinux/Resources"]
-	path = Linux/Anlinux/Resources
+[submodule "Linux/AnLinux/Resources"]
+	path = Linux/AnLinux/Resources
 	url = https://github.com/EXALAB/Anlinux-Resources.git
 [submodule "Linux/linuxdeploy/master"]
 	path = Linux/linuxdeploy/master
