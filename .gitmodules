@@ -49,3 +49,12 @@
 [submodule "App/yunbotouping"]
 	path = App/yunbotouping
 	url = https://github.com/yunbotouping/-.git
+[submodule "amlogic/linux-toolkit"]
+	path = amlogic/linux-toolkit
+	url = https://github.com/natinusala/linux-amlogic-toolkit.git
+[submodule "amlogic/flash-tool"]
+	path = amlogic/flash-tool
+	url = https://github.com/khadas/utils.git
+[submodule "tools/android-bootimg-tools"]
+	path = tools/android-bootimg-tools
+	url = https://github.com/difcareer/BootImgTool.git
